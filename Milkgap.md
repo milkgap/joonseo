@@ -1,5 +1,5 @@
-<!DOCTYPE html>
-<html>
+<!DOCTYPE md>
+<md>
   <head>
     <meta charset="utf-8">
     <title>Milkgap</title>
